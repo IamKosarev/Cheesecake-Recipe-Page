@@ -1,0 +1,64 @@
+#container {
+  max-width: 352px;
+  margin: 0px auto;
+  padding: 32px 0px;
+}
+
+h1 {
+  font-family: "Playfair Display";
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+.description {
+  max-width: 345px;
+  margin-bottom: 17px;
+}
+
+.description p {
+  font-size: 12px;
+  line-height: 15px;
+}
+
+#cake {
+  height: 202px;
+}
+
+.cooking-info {
+  margin-top: 0;
+}
+
+.info-item .heading {
+  font-size: 8px;
+  margin-bottom: 0;
+}
+
+.info-item span {
+  font-size: 22px;
+  margin-right: 10px;
+}
+
+.info-item .lower {
+  font-size: 12px;
+}
+
+.main h3 {
+  font-size: 18px;
+  margin: 20px 0px;
+}
+
+.main h4 {
+  font-size: 16px;
+  margin: 25px 0px;
+}
+
+.checkbox-item label {
+  width: 91%;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.recipe-source {
+  font-size: 12px;
+}

@@ -1,0 +1,28 @@
+#container {
+  max-width: 610px;
+}
+
+section.recipe {
+  display: block;
+}
+.cooking-info {
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: none;
+  max-width: 100%;
+  height: auto;
+  padding: 35px 0px;
+  margin-top: 28px;
+  padding: 0 10px;
+}
+
+.cooking-info .info-item {
+  width: auto;
+  margin: 0;
+}
+
+.info-item:first-child {
+  width: 100%;
+  margin-bottom: 20px;
+}
